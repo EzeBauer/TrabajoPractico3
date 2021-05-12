@@ -1,0 +1,42 @@
+[
+  {
+    "titulo": "Pintar el comedor",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "Azulejar el baño",
+    "estado": "en progreso"
+  },
+  {
+    "titulo": "Conectar el gas",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Reparar el cielorraso",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "tomar cerveza",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "tomar mate",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "tomar mate",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "tomar jugo",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "tomar vino",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "dormir en sofa",
+    "estado": "pendiente"
+  }
+]
